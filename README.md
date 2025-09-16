@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha Qaiser.</h1>
+<h1 align="center">Hi 👋, I'm Taha Qaiser</h1>
 <h3 align="center">A Certified Computer Engineer ready to be at your service.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-tahaqaiser&label=Profile%20views&color=0e75b6&style=flat" alt="m-tahaqaiser" /> </p>
