@@ -9,10 +9,6 @@
 
 - 🤝I’m looking to collaborate on **Front-End Development | UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01a30deca25f5322cf?mp_source=share](https://www.upwork.com/freelancers/~01a30deca25f5322cf?mp_source=share)
-
-- 📫 How to reach me **https://www.upwork.com/freelancers/~01a30deca25f5322cf?mp_source=share**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
