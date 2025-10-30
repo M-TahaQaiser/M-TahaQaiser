@@ -9,7 +9,6 @@
 
 - 🤝I’m looking to collaborate on **Front-End Development | UI/UX Design**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
